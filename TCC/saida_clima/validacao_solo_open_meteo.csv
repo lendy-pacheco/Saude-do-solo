@@ -1,0 +1,5 @@
+site,variavel,n,correlacao_pearson,vies_open_meteo_menos_medido,rmse
+agricultural,temperatura do solo (°C),16,0.9641240474947403,0.2320937500000007,2.3743957085757175
+agricultural,"umidade do solo (ordem de postos, Spearman)",16,0.6823529411764707,,
+forest,temperatura do solo (°C),16,0.9809249887316054,1.0178541666666663,3.1747543671387652
+forest,"umidade do solo (ordem de postos, Spearman)",16,0.6764705882352942,,

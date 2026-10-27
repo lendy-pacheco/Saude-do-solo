@@ -1,0 +1,6 @@
+﻿site,treatment,sampling_label,variable,value,observation
+agricultural,control,Jan 2019,whc_pct_mean,121.2,acima de 100% da capacidade de retenção de água
+agricultural,control,Jan 2019,soil_temp_c_mean,-0.1,"-0,100 ± 0,000: erro padrão zero (possível limite de leitura)"
+agricultural,residue_removal,Jan 2019,whc_pct_mean,112.0,acima de 100% da capacidade de retenção de água
+agricultural,residue_removal,Jan 2019,soil_temp_c_mean,-0.1,"-0,100 ± 0,000: erro padrão zero (possível limite de leitura)"
+forest,litter_removal,Jan 2020,soil_temp_c_mean,0.0,"0,000 ± 0,000: possível valor-limite do termômetro ou placeholder"

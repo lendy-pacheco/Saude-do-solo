@@ -1,0 +1,9 @@
+site,treatment,temperatura_usada,n,q10,r2_log,q10_artigo_fig4,r2_artigo_fig4
+agricultural,control,temperatura medida no campo,16,3.346639685559447,0.7668900729665564,2.5,0.73
+agricultural,control,temperatura do solo Open-Meteo,16,3.1557219428298926,0.8116046138578037,2.5,0.73
+agricultural,residue_removal,temperatura medida no campo,16,3.1224042533494605,0.8522045754219298,2.7,0.79
+agricultural,residue_removal,temperatura do solo Open-Meteo,16,2.848783045993179,0.8056648790370271,2.7,0.79
+forest,control,temperatura medida no campo,16,2.2480832479035295,0.7868649561916812,2.2,0.73
+forest,control,temperatura do solo Open-Meteo,16,1.65728390472152,0.6921797955458067,2.2,0.73
+forest,litter_removal,temperatura medida no campo,16,2.1775632476100117,0.8761319684384179,2.2,0.74
+forest,litter_removal,temperatura do solo Open-Meteo,16,1.7446441660251046,0.8288755400331722,2.2,0.74

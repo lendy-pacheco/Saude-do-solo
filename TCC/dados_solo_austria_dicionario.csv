@@ -1,0 +1,22 @@
+﻿coluna,unidade,valores,descricao
+site,texto,agricultural | forest,"Local de coleta: campo agrícola (Wieselburg, Áustria) ou floresta de faia (Rosalia, Áustria)"
+treatment,texto,control | residue_removal | litter_removal,"Tratamento: controle (resíduos/folhas ficam), remoção de resíduos da colheita (agrícola) ou remoção da serapilheira (floresta)"
+sampling_no,inteiro,1–16,Número da amostragem (Tabela S1)
+sampling_label,texto,ex. Mar 2018,"Rótulo mês/ano da amostragem, como na tabela do artigo"
+date,data,AAAA-MM-DD,Data da coleta (por local; no 1º evento o campo e a floresta foram coletados em dias diferentes)
+year / month,inteiro,,Ano e mês da coleta
+plants_or_foliage_present,0/1,,1 = plantas visíveis (agrícola) ou folhagem (floresta) na data; 0 = ausentes
+latitude / longitude,decimal,graus,"Coordenadas do local, convertidas de graus e minutos do corpo do artigo (precisão de ~1 minuto de arco, aproximadamente 1,5 km)"
+soil_temp_c,°C,,Temperatura do solo medida na coleta (0–5 cm)
+soil_water_content_pct,% do solo fresco,,Umidade gravimétrica do solo
+whc_pct,% da capacidade de retenção de água,,Umidade em relação à capacidade de retenção; valores acima de 100% aparecem na fonte
+ph,adimensional,,pH (solo:água 1:5)
+eoc_ugC_g,µg C g-1 solo seco,,Carbono orgânico extraível
+ten_ugN_g,µg N g-1 solo seco,,Nitrogênio total extraível
+mbc_ugC_g,µg C g-1 solo seco,,Carbono da biomassa microbiana
+mbn_ugN_g,µg N g-1 solo seco,,Nitrogênio da biomassa microbiana
+dna_ug_g,µg g-1 solo seco,,Conteúdo de DNA
+respiration_ngC_g_h,ng C g-1 solo seco h-1,,Respiração microbiana
+growth_ngC_g_h,ng C g-1 solo seco h-1,,Crescimento microbiano bruto (incorporação de 18O no DNA)
+cue,adimensional,0–1,Eficiência de uso de carbono = crescimento / (crescimento + respiração)
+<variável>_mean / _se,,,Média e erro padrão publicados na tabela (não são dados por parcela)
